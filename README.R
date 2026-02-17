@@ -10,8 +10,6 @@
 
 # pet
 
-# Je te veux
-
 #astrophage
 
 # boudin
